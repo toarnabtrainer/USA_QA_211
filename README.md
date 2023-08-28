@@ -16,6 +16,11 @@ https://www.youtube.com/watch?v=OUkHXMwu-JY
 https://onecompiler.com/<br>
 https://www.onlinegdb.com/
 
+**Please confirm following issues:**<br>
+1. Chrome should be the defualt browser
+2. Anaconda should remain installed with Jupyter Lab or Jupyter Notebook should run
+3. Login into class from your system not from your mobile
+
 **Python Study Material Links:**<br>
 **Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
 **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
