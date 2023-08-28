@@ -21,6 +21,9 @@ https://www.onlinegdb.com/
 2. Anaconda should remain installed with Jupyter Lab or Jupyter Notebook should run
 3. Login into class from your system not from your mobile
 
+**HTML Study Materisl Links:**<br>
+https://www.w3schools.com/html/default.asp
+
 **Python Study Material Links:**<br>
 **Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
 **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
